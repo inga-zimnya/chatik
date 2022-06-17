@@ -1,0 +1,25 @@
+
+body {
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+    background-color: #f5f5f5;
+    padding-top: 4.5rem;
+}
+
+.btn-rounded {
+    border-radius: 35px;
+}
+
+.btn-dark-blue {
+    background: #7474BF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #348AC7, #7474BF);
+    background: linear-gradient(to right, #348AC7, #7474BF);
+    color: #fff;
+    border: 3px solid #eee;
+    min-width: 100px;
+}
+
+.bg-col{
+    background-color: #2578ff;
+}
